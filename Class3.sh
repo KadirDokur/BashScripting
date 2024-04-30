@@ -1,5 +1,5 @@
 
-# It is not required to include double quote but is required to provide better code visibility
+# It is not required to include double quote but is adviced to provide better code visibility
 echo "Hello World"
 echo Hello World
 
