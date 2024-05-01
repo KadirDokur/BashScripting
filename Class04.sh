@@ -14,3 +14,16 @@ expr 30 / 10
 # Backslash (\) is the way to overcome this.
 expr 30 \* 10
 
+# Example
+echo "----------"
+mynum1="100"
+echo "First number:$mynum1"
+
+mynum2="20"
+echo "Second number:$mynum2"
+
+expr $mynum1 \* $mynum2
+expr $mynum1 / $mynum2
+expr $mynum1 + $mynum2
+expr $mynum1 - $mynum2
+expr $mynum1 + 50
