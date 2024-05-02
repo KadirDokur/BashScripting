@@ -6,7 +6,7 @@ I have created those scripts on Windows 10 via Visual Studio Code. If you are ha
 
 https://www.youtube.com/watch?v=JdXqCHT1rq0
 
-List of contens:
+List of contents:
 - Class 01 ➜ Introduction
 - Class 02 ➜ Hello World
 - Class 03 ➜ Variables
