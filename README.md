@@ -9,14 +9,14 @@ https://www.youtube.com/watch?v=JdXqCHT1rq0
 List of contens:
 - Class 01 ➜ Introduction
 - Class 02 ➜ Hello World
-- Class 03 ➜ Variables:
+- Class 03 ➜ Variables
 - Class 04 ➜ Math Functions 
 - Class 05 ➜ If Statements
 - Class 06 ➜ Exit Codes
 - Class 07 ➜ While Loops
-- Class 08 ➜ Universal Update
+- Class 08 ➜ Universal Update Script
 - Class 09 ➜ For Loops
-- Class 10 ➜ Where To Store Your Scripts
+- Class 10 ➜ Filesystem Locations Scripts
 - Class 11 ➜ Data Streams
 - Class 12 ➜ Functions
 - Class 13 ➜ Case Statements
