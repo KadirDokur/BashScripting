@@ -2,10 +2,14 @@ A Bash scripting repostiory which serves as an introduction to beginners. Most s
 
 https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=1
 
-I have created those scripts on Windows 10 via Visual Studio Code. If you are having troubles doing so, follow the video below where you will learn to change your VS Code terminal to bash terminal. Though some scripts may not function as they are intented because
-the development environment is not a native Linux. It is better and more convenient to work with the bash scripting in a Linux distrubition. So if you are having troubles getting them work on your Windows machine, try executing them again on a Linux operating system.
+I have created those scripts on Windows 10 via Visual Studio Code. If you are having troubles doing so, follow the video below where you will learn to change your VS Code terminal to bash terminal.
 
 https://www.youtube.com/watch?v=JdXqCHT1rq0
+
+
+WARNING !
+Some scripts may not function as they are intented because the development environment is not a native Linux. It is better and more convenient to work with the bash scripting in a Linux distrubition.
+So if you are having troubles getting them work on your Windows machine, try executing them again on a Linux operating system. I will be adding comment lines for these specific scripts regarding the issue.
 
 List of contents:
 - Class 01 ➜ Introduction
