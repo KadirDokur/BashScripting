@@ -1,4 +1,7 @@
-A Bash scripting repostiory which serves as an introduction to beginners. Most scripts are taken from the video series that I linked below.
+A Bash scripting repostiory which serves as an introduction to beginners. The scripts that carry the same name as its folder, are the first scripts that are very basic. Preferred to create multiple scripts that serves a specific purpose inside a single folder instead of a one big file with everything in it.
+
+
+Most scripts are taken from the video series that I linked below. Mostly..
 
 https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=1
 
