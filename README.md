@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=JdXqCHT1rq0
 
 
 WARNING !
-Some scripts may not function as they are intented because the development environment is not a native Linux. It is better and more convenient to work with the bash scripting in a Linux distrubition.
+Some scripts may not function as they are intended because the development environment is not a native Linux. It is better and more convenient to work with the bash scripting in a Linux distrubition.
 So if you are having troubles getting them work on your Windows machine, try executing them again on a Linux operating system. I will be adding comment lines for these specific scripts regarding the issue.
 
 List of contents:
