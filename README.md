@@ -18,7 +18,7 @@ Some scripts may not function as they are intended because the development envir
 So if you are having troubles getting them work on your Windows machine, try executing them again on a Linux operating system. I will be adding comment lines for these specific scripts regarding the issue.
 
 E.g
-![asdf](https://github.com/KadirDokur/BashScripting/assets/45979582/2dfec726-9669-4908-a00d-7a6b357c87a4)
+![asdf](https://github.com/KadirDokur/BashScripting/assets/45979582/b725ac10-a1ef-4cba-9015-c861a2d9bb91)
 
 
 List of contents:
