@@ -17,6 +17,10 @@ WARNING !
 Some scripts may not function as they are intended because the development environment is not a native Linux. It is better and more convenient to work with the bash scripting in a Linux distrubition.
 So if you are having troubles getting them work on your Windows machine, try executing them again on a Linux operating system. I will be adding comment lines for these specific scripts regarding the issue.
 
+E.g
+![asdf](https://github.com/KadirDokur/BashScripting/assets/45979582/2dfec726-9669-4908-a00d-7a6b357c87a4)
+
+
 List of contents:
 - Class 01 ➜ Introduction
 - Class 02 ➜ Hello World
