@@ -1,3 +1,6 @@
+
+![Screenshot_1](https://github.com/KadirDokur/BashScripting/assets/45979582/7d0daa4c-e068-49ac-9ebf-c7c2f8bfebf2)
+
 A Bash scripting repostiory which serves as an introduction to beginners. The scripts that carry the same name as its folder, are the first scripts that are very basic. Preferred to create multiple scripts that serves a specific purpose inside a single folder instead of a one big file with everything in it.
 
 
@@ -11,7 +14,7 @@ https://www.youtube.com/watch?v=JdXqCHT1rq0
 
 
 WARNING !
-Some scripts may not function as they are intented because the development environment is not a native Linux. It is better and more convenient to work with the bash scripting in a Linux distrubition.
+Some scripts may not function as they are intended because the development environment is not a native Linux. It is better and more convenient to work with the bash scripting in a Linux distrubition.
 So if you are having troubles getting them work on your Windows machine, try executing them again on a Linux operating system. I will be adding comment lines for these specific scripts regarding the issue.
 
 List of contents:
