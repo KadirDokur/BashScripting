@@ -7,7 +7,7 @@ befehl=htop
 
 if command -v $befehl
 then
-    echo "$befehl is available, runnig it..."
+    echo "$befehl is available, running it..."
 else
     echo "$befehl is NOT available, installing it..."
     sudo apt update && sudo apt install -y $befehl
