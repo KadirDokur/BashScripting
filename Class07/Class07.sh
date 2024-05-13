@@ -23,4 +23,4 @@ do
     ((counter++))
     sleep 0.1
 done
-echo "Amount of division it took:$counter"
+echo "Amount of division:$counter"
